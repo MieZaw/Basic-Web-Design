@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/miemiezaw-mmz/Internship/master/Chin_State.geojson
+
+https://raw.githubusercontent.com/miemiezaw-mmz/Internship/master/Kayah_State.geojson
+
+https://raw.githubusercontent.com/miemiezaw-mmz/Internship/master/Kayin_State.geojson
+
+https://raw.githubusercontent.com/miemiezaw-mmz/Internship/master/Mon_State.geojson
+
+https://raw.githubusercontent.com/miemiezaw-mmz/Internship/master/Shan_State.geojson
+
+https://raw.githubusercontent.com/miemiezaw-mmz/Internship/master/Kachin_State.geojson
